@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565156667961",
+    "project_id": "e-com-55acd",
+    "storage_bucket": "e-com-55acd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565156667961:android:4f23900240e1588baee3e8",
+        "android_client_info": {
+          "package_name": "com.example.e_com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu1nTdECj3qbNzmap5K-yjkS85mNoV1Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
